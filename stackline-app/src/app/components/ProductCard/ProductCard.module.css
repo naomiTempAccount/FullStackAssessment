@@ -1,0 +1,21 @@
+.card {
+    max-width: 3500;
+    margin: "0 auto";
+    padding: "0.4em";
+    background-color: #ff0000;
+  }     
+
+  .chip{
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 0 25px;
+    padding-bottom: 25px;
+    height: 30px;
+    font-size: 12px;
+    line-height: 30px;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+  }

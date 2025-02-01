@@ -4,8 +4,7 @@ This App was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/a
 This App uses the Material UI ['Material-UI](https://mui.com/material-ui/) and some of the components are taken from examples
 
 ## Getting Started
-
-First, run the development server:
+Go into the `/stackline-app` directory and run the development server:
 
 ```bash
 npm run dev

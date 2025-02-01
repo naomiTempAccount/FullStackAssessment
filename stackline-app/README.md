@@ -1,3 +1,6 @@
+## Notes
+Currently the fetch call is to a local json file. If you replace it with an API call it will still work. I originally used Mockcoon to mock that GET response but since the app needs to be hosted it is easier to make that a local json file. 
+
 ## Credits
 This App was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 

@@ -19,3 +19,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+
+## Vercel
+
+To view this on vercel go [here](https://stackline-app-assessment.vercel.app/)
+
